@@ -18,6 +18,15 @@ NumPy was created in 2005 by Travis Oliphant. It is an open source project and y
 NumPy stands for Numerical Python.
             </pre>
         </li>
+        <li>
+            <h2>Why use NumPy?</h2>
+            <pre>
+In Python, we have lists that serve the purpose of arrays, but they are slow to process.
+NumPy aims to provide an array object that is up to 50x faster than traditional Python lists.
+The array object in NumPy is called <code>ndarray</code>, it provides a lot of supporting functions that make working with <code>ndarray</code> very easy.
+Arrays are very frequently used in data science, where speed and resources are very important.
+            </pre>
+        </li>
     </ol>
 </body>
 </html>
